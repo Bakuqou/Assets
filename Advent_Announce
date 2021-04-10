@@ -1,0 +1,46 @@
+<!------------------------- NEW PERSON ------------------------------>
+<div class="row no-gutters">
+    <!------------------------- card ------------------------------>
+    <div class="col-md-1 p-1">
+        <div class="card d-block display-2 text-center rounded-0">
+
+            <p class="my-5 mx-auto fa-rotate-270 hidden-md-down">24<sup>th</sup></p>
+            <div class="hidden-md-up p-1" style="font-size:18pt;">24th of December</div>
+        </div>
+    </div>
+    <!------------------------- card ------------------------------>
+    <div class="col-md-6 p-1">
+        <div class="card rounded-0 h-100" style="background:url('https://cdn.discordapp.com/attachments/784238700715573289/791968916950876170/unknown.png') center;background-size:110%;min-height:300px;">
+            <br>
+        </div>
+    </div>
+    <!------------------------- card ------------------------------>
+    <div class="col-md-5 p-1">
+        <div class="card d-block rounded-0 p-4">
+            <!--- right --->
+            <a class="display-4 mb-1" href="https://toyhou.se/9213856.-freebie-advent" id="" style="font-size:20pt;">Advent</a>
+            <br><span class="text-muted">By</span> @eggy</div>
+        <div class="row no-gutters">
+            <!---------- features ------------>
+            <div class="col-md-5 p-0 mb-5">
+                <div class="card rounded-0 border-0 display-4 pb-1 mt-2 bg-primary p-2" style="font-size:17pt;">Features</div>
+                <div class="card rounded-0 p-2 h-100" style="max-height:155px;overflow:auto;">
+
+                    <ul class="list-unstyled ml-2 mt-1">
+                        <li>- mobile responsive</li>
+                        <li>- tabbed content sections</li>
+                        <li>- custom accent color</li>
+                    </ul>
+                </div>
+            </div>
+            <!---------- message ------------>
+            <div class="col-md-7 pl-md-2">
+                <div class="card rounded-0 border-0 display-4 pb-1 mt-2 bg-primary p-2" style="font-size:17pt;">Holiday Message</div>
+                <div class="card rounded-0 p-2" style="max-height:155px;overflow:auto;">
+
+                    <p class="p-1">Happy Holidays ✧⁺⸜(●&prime;▾‵●)⸝⁺✧</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

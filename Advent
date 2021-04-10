@@ -1,0 +1,76 @@
+<div class="card rounded-0 border-0 p-2" style="margin:-22px;">
+
+	<h3 class="card rounded-0 bg-primary card-block m-1 p-3 display-4 text-white" style="font-size:20pt;">2020 Coder Advent Calendar</h3>
+	<div class="row no-gutters">
+		<div class="col-lg-6 p-1">
+			<div class="card rounded-0 border-0 p-3">
+
+				<p>Holiday Time is upon us, so a group of amazing people and myself have collaborated to bring you all some fun gifts in the form of an advent calendar! On the set day, one of the coders listed will release a code available to the public as a gift!</p>
+
+				<p>We all hope you enjoy it! There&#39;s a mixture of coders in the line-up eager to show you something special they&#39;ve made you! Stay tuned, and Happy Holidays!</p>
+			</div>
+		</div>
+		<div class="col-lg-6 p-1">
+			<div class="card w-100 h-100 text-center bg-faded rounded-0 border-0 p-3 display-4">
+
+				<h1 class="mt-3 mb-4 font-weight-light " style="font-size:30pt;">Event has ended!</h1><span class="mt-2" style="font-size:12pt;">Feel free to join us on our <a href="https://discord.com/invite/hZFvnww">Discord Server!</a> to find out about the next one!</span></div>
+		</div>
+	</div>
+	<!-------------------- top row ------------------------>
+	<div class="row no-gutters">
+		<div class="col-lg-3 p-1">
+			<!----- 13th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/787868170350362656/787871699806453760/unwrap.png');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9201716.-f2u-unwrap" style="font-size:large;">SealKitty</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 14th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/769105523487539201/788031446685581344/001598.png');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9182940.social-media-profile" style="font-size:large;">foleso</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 15th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://f2.toyhou.se/file/f2-toyhou-se/images/28626138_eUcThF5KuU47bQv.png');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/8947255.species-trait-guide" style="font-size:large;">Hollyfrost</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 16th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://f2.toyhou.se/file/f2-toyhou-se/images/29414051_ogxLLdw4yoBe4Od.png');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9142808.-04-co-op" style="font-size:large;">Togo</a></div>
+		</div>
+	</div>
+	<!-------------------- mid row ------------------------>
+	<div class="row no-gutters">
+		<div class="col-lg-3 p-1">
+			<!----- 17th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:top; background-image:url('https://f2.toyhou.se/file/f2-toyhou-se/images/29430817_RPwDBaelD1BaT1N.png');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/8997195.-f2u-html-star-charms?key=ziQBebwdJBTNhhL" style="font-size:large;">werebear</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 18th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://media.discordapp.net/attachments/615586762030448640/789700413557309450/unknown.png');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9258449.f2u-elven" style="font-size:large;">BakuCodes</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 19th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/788257180599320596/789864603194097675/Screenshot_3.jpg');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9214327.-freebie-misaligned" style="font-size:large;">Eggy</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 20th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url(https://cdn.discordapp.com/attachments/790223882815668224/790265104661741568/unknown.png);"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9273940" style="font-size:large;">Lymelle</a></div>
+		</div>
+	</div>
+	<!-------------------- bottom row ------------------------>
+	<div class="row no-gutters">
+		<div class="col-lg-3 p-1">
+			<!----- 21st ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/790193604546658334/790195584552009778/candy_cane.PNG');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9165590.layout-candy-cane?key=5RXAIAk5n0H9Epo" style="font-size:large;">snail-legs</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 22nd ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/774661392321085461/790927785446080522/9c67e147fcf4222b1bc54dc4a80eca3c.jpg');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9171438.-f2u-silent-night" style="font-size:large;">CalsCode</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 23rd ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://media.discordapp.net/attachments/791216096774062082/791217428754858004/Screenshot_2020-12-23_015900.png?width=1166&height=611');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9304861.profile-flash-card" style="font-size:large;">username</a></div>
+		</div>
+		<div class="col-lg-3 p-1">
+			<!----- 24th ----->
+			<div class="card border-0" style="height:200px; background-color:#000; background-size:cover; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/784238700715573289/791968916950876170/unknown.png');"><a class="h-100 btn btn-outline-primary btn-block justify-content-end align-items-end rounded-0" href="https://toyhou.se/9213856.-freebie-advent" style="font-size:large;">Eggy</a></div>
+		</div>
+	</div>
+</div>
